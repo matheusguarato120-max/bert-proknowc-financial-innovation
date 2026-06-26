@@ -1,7 +1,7 @@
 # bert-proknowc-financial-innovation
 Python scripts using BERT (paraphrase-multilingual-MiniLM-L12-v2) for semantic screening and filtering in a ProKnow-C systematic review of innovation and corporate financial performance.
 
-# BERT Semantic Screening for ProKnow-C Systematic Review
+## BERT Semantic Screening for ProKnow-C Systematic Review
 Este repositório contém o ambiente integrado em Python utilizado para a automação da triagem semântica e metodológica do meu Trabalho de Conclusão de Curso (TCC) na Universidade Federal de Uberlândia (UFU).
 
 ## Objetivo do Projeto
